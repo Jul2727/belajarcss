@@ -1,0 +1,70 @@
+h1{
+    color: rgb(34, 24, 4);
+    background-color: rgb(243, 240, 234);
+    text-align: center;
+    border: 5px rgb(224, 124, 41) solid;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+p{
+    color: rgb(26, 3, 3);
+    background-color: rgb(232, 236, 222);
+    border: 5px rgb(223, 107, 41) solid;
+    border-style: dashed;
+    padding: 30px;
+    line-height: 30px;
+}
+#terserah{
+    background-image: url("../belajarcss/background/gambar.jpg");
+}
+#terserah h1{
+    background-color: transparent;
+    border: none;
+}
+#kotaksatu {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(255, 153, 0);
+    display: inline-block;
+}
+#kotakdua {
+    width: 50px;
+    height:50px;
+    background-color: rgb(226, 81, 37);
+    display: inline-block;
+}
+#kotaktiga {
+    width: 50px;
+    height: 50px;
+    background-color: brown;
+    display: inline-block;
+}
+#persegipanjang {
+    width: 100px;
+    height:50px;
+    background-color: rgb(255, 205, 129);
+    display: inline-block;
+}
+#lingkaran {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(218, 11, 11);
+    display: inline-block;
+    border-radius: 50px;
+}
+#segitiga {
+    width: 0px;
+    height: 0px;
+    border-bottom: 80px solid transparent;
+    border-left: 120px solid orangered;
+    border-right: 80px solid transparent;
+    display: inline-block;
+
+    
+}
